@@ -4,9 +4,24 @@ Họ và tên: Lê Trung nghĩa
 Exercise_1:
 
 Ngày 12/1/2023;
-Làm được: Game đạt được ́80̀̀% cấu trúc game trong video hướng dẫn mẫu.
 
-Chưa làm được:
-+ Chưa có âm thanh cho game.
-+ Lỗi nhảy bị mắc vào khối cube.
-+ Đang chỉ có 1 màn chơi. 
+ Làm được: Game đạt được 8% cấu trúc game trong video hướng dẫn mẫu.
+ Chưa làm được:
+  + Chưa có âm thanh cho game.
+  + Lỗi nhảy bị mắc vào khối cube.
+  + Đang chỉ có 1 màn chơi. 
+
+Ngày 16/1/2023;
+
+ Làm được: 
+  + Game đã có âm thanh đầy đủ trong các màn chơi theo hướng dẫn.
+  + Game đã hoàn thành 2 màn chơi (level01, level02) theo yêu cầu của video hướng dẫn. 
+  + Game đã đạt 85% các yêu cầu của game mẫu.
+ Chưa làm được:
+  + Điểm cao chưa chia theo màn chơi.
+
+Ngày 30/1/2023;
+
+ Làm được:
+  + Game đã căn chỉnh kích thước các UI cho phù hợp hơn với màn hình tỉ lệ full HD.
+  + 
